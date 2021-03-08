@@ -2,3 +2,5 @@ theme: jekyll-theme-merlot
 title: Conor
 description: description
 show_downloads: false
+github:
+  is_project_page: false
