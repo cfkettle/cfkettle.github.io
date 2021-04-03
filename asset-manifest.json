@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/cfkettle.github.io/static/js/main.54022759.chunk.js",
-    "main.js.map": "/cfkettle.github.io/static/js/main.54022759.chunk.js.map",
+    "main.js": "/cfkettle.github.io/static/js/main.a2313915.chunk.js",
+    "main.js.map": "/cfkettle.github.io/static/js/main.a2313915.chunk.js.map",
     "runtime-main.js": "/cfkettle.github.io/static/js/runtime-main.41ecb6eb.js",
     "runtime-main.js.map": "/cfkettle.github.io/static/js/runtime-main.41ecb6eb.js.map",
-    "static/js/2.0ce03f42.chunk.js": "/cfkettle.github.io/static/js/2.0ce03f42.chunk.js",
-    "static/js/2.0ce03f42.chunk.js.map": "/cfkettle.github.io/static/js/2.0ce03f42.chunk.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/cfkettle.github.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d4e3c93b.chunk.js": "/cfkettle.github.io/static/js/2.d4e3c93b.chunk.js",
+    "static/js/2.d4e3c93b.chunk.js.map": "/cfkettle.github.io/static/js/2.d4e3c93b.chunk.js.map",
     "index.html": "/cfkettle.github.io/index.html",
-    "static/js/2.0ce03f42.chunk.js.LICENSE.txt": "/cfkettle.github.io/static/js/2.0ce03f42.chunk.js.LICENSE.txt"
+    "static/css/2.4c97ca4f.chunk.css.map": "/cfkettle.github.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.d4e3c93b.chunk.js.LICENSE.txt": "/cfkettle.github.io/static/js/2.d4e3c93b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.41ecb6eb.js",
-    "static/js/2.0ce03f42.chunk.js",
-    "static/js/main.54022759.chunk.js"
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d4e3c93b.chunk.js",
+    "static/js/main.a2313915.chunk.js"
   ]
 }
